@@ -1,4 +1,5 @@
 # [GameTambah](https://tomyamgtx.github.io/GameTambah/)
 
-- Developed By RUSHIL
-- Published By KREATIF APPS & AQ WISE
+- Developed by RUSHIL
+- Improvised by Hakimi Md Noor
+- Published by KREATIF APPS & AQ WISE
